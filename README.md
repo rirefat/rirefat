@@ -9,7 +9,7 @@ possible. I love to solve real-world problems. I am strategic, goal-
 oriented, and always work with an end goal in mind. Over the past
 years, I created 100s of websites for my clients using WordPress. I pride myself on doing quality work and maintaining excellent communication. I also enjoy working with include ReactJS, JavaScript as well as PHP.
 
-Skills: HTML5 / CSS3 / Bootstrap / JS / jQuery /  REACT / WordPress / C / Java / PHP
+Skills: HTML5 / CSS3 / Bootstrap / TailWind / JS / jQuery /  REACT / WordPress / C / Java / PHP
 
 - 🌱 I’m currently learning ReactJS 
 - 💬 Ask me about Web Development 
