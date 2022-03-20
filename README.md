@@ -1,16 +1,28 @@
-### Hi there 👋
+![Web Developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/269959547_279562144224029_367014923724002741_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHxSza8Uhk1MSkcuUJzVWhc3fl4W9yZMNnd-Xhb3Jkw2flsPc-VAwOF_bOSnoKDnNDhfI_WN8iLqgHkr3mtFG_A&_nc_ohc=gtdc0Ml50KgAX_4Jf_V&_nc_ht=scontent.fdac99-1.fna&oh=00_AT-XUJVQRgXpln6Jz9WO94VIB5dzSI_oqX1igRDEUCyO8g&oe=623CB8A9)
 
-<!--
-**rirefat/rirefat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Rafiul Islam
+#### Web Developer
 
-Here are some ideas to get you started:
+I'm a Front End Web developer who is passionate about making errors-free websites with 100% client satisfaction. I have a passion for
+learning and sharing my knowledge with others as much as
+possible. I love to solve real-world problems. I am strategic, goal-
+oriented, and always work with an end goal in mind. Over the past
+years, I created 100s of websites for my clients using WordPress. I pride myself on doing quality work and maintaining excellent communication. I also enjoy working with include ReactJS, JavaScript as well as PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML5 / CSS3 / Bootstrap / JS / jQuery /  REACT / WordPress / C / Java / PHP
+
+- 🌱 I’m currently learning ReactJS 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: rirefat.official@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rirefat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rafiul-islam-refat-868779160//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafiulrefat.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rafiul_refat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://rafiulrefat.com/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rirefat)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rirefat)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rirefat)  
+
