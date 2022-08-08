@@ -1,4 +1,4 @@
-![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGLNrc9bnwulQ/profile-displaybackgroundimage-shrink_350_1400/0/1647807311165?e=1653523200&v=beta&t=zbdsPtp5kE3OkeA0-lXrO17ont38cy14N1ag6lWfeAc)
+![Web Developer](https://www.linkedin.com/in/rafiul-islam-refat-868779160/overlay/background-image/)
 
 ## Hi there 👋, I'm Rafiul Islam
 > ### Web Developer
