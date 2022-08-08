@@ -1,4 +1,4 @@
-![Web Developer](https://www.linkedin.com/in/rafiul-islam-refat-868779160/overlay/background-image/)
+![Web Developer](web-dev.jpg)
 
 ## Hi there 👋, I'm Rafiul Islam
 > ### Web Developer
