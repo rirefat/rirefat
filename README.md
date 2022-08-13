@@ -13,7 +13,7 @@ Skills: HTML5 / CSS3 / Bootstrap / TailWind / JS / jQuery /  REACT / WordPress /
 
 - 🌱 I’m currently learning ReactJS 
 - 💬 Ask me about Web Development 
-- :link: Visit my portfolio website: [portfolio](https://rafiulrefat.com)
+- :link: Visit my portfolio website: [portfolio](https://rirefat.netlify.app/)
 - :page_with_curl: Check my resume: [my resume](myresume-rirefat.netlify.app)
 - 📫 How to reach me: rirefat.official@gmail.com 
 
