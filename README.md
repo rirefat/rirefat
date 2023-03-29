@@ -11,7 +11,6 @@ years, I created 100s of websites for my clients using WordPress. I pride myself
 
 Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript | jQuery |  REACT | Firebase | WordPress | C | Java | PHP
 
-- 🌱 I’m currently learning ReactJS 
 - 💬 Ask me about Web Development 
 - :link: Visit my portfolio website: [portfolio](https://rirefat.netlify.app/)
 - :page_with_curl: Check my resume: [my resume](myresume-rirefat.netlify.app)
