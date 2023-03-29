@@ -13,7 +13,7 @@ Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript | jQuery |  REAC
 
 - 💬 Ask me about Web Development 
 - :link: Visit my portfolio website: [portfolio](https://rirefat.netlify.app/)
-- :page_with_curl: Visit my portfolio website: [portfolio](https://rirefat.netlify.app/)
+- :page_with_curl: Visit my portfolio website: [portfolio](https://myresume-rirefat.netlify.app/)
 - 📫 How to reach me: rirefat.official@gmail.com 
 
 
