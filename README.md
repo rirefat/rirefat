@@ -9,7 +9,7 @@ possible. I love to solve real-world problems. I am strategic, goal-
 oriented, and always work with an end goal in mind. Over the past
 years, I created 100s of websites for my clients using WordPress. I pride myself on doing quality work and maintaining excellent communication. I also enjoy working with include ReactJS, JavaScript as well as PHP.
 
-Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript | jQuery |  REACT | Firebase | WordPress | C | Java | PHP
+Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript | jQuery |  REACT | NodeJs | ExpressJs | MongoDB | Firebase | WordPress | C | Java | PHP
 
 - 💬 Ask me about Web Development 
 - :link: [Visit my portfolio website](https://rirefat.netlify.app/)
