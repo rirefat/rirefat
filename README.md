@@ -21,5 +21,3 @@ Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript | jQuery |  REAC
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rirefat)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rirefat)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rirefat)  
-
