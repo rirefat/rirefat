@@ -3,21 +3,23 @@
 ## Hi there 👋, I'm Rafiul Islam
 > ### React Web Application Developer
 
-I'm a Front End Web developer who is passionate about making errors-free websites with 100% client satisfaction. I have a passion for
-learning and sharing my knowledge with others as much as
-possible. I love to solve real-world problems. I am strategic, goal-
-oriented, and always work with an end goal in mind. Over the past
-years, I created 100s of websites for my clients using WordPress. I pride myself on doing quality work and maintaining excellent communication. I also enjoy working with include ReactJS, JavaScript as well as PHP.
+I'm a Front End Web developer who is passionate about making errors-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as much as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients using WordPress. I pride myself on doing quality work and maintaining excellent communication. I also enjoy working with include ReactJS, JavaScript as well as Java.
 
-Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript | jQuery |  REACT | NodeJs | ExpressJs | MongoDB | Firebase | WordPress | C | Java | PHP
+<br>
+Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript |  REACT | NodeJs | ExpressJs | MongoDB | Firebase | WordPress | Java
+<br><br>
 
-- 💬 Ask me about Web Development 
-- :link: [Visit my portfolio website](https://rirefat.netlify.app/)
-- :page_with_curl: [My Resume](https://myresume-rirefat.netlify.app/)
-- 📫 How to reach me: rirefat.official@gmail.com 
+- 👀 &nbsp; I’m interested in **MERN Stack Development** & **Java Programming**.
+- 💼 &nbsp; I’m **good** in **Frontend Development** with React.Js and currently learning **MERN Stack Development**💪.
+- 👯 &nbsp; Open to discuss about any startup idea
+- 👨‍💻 &nbsp; All of my projects are available at my [portfolio](rirefat.netlify.app/)
+- 📫 &nbsp; Email me: rirefat.official@gmail.com 
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
 [<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-github-2-5645861-4695719.png' alt='github' height='40'>](https://github.com/rirefat)    [<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-2-5645838-4695696.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rirefat/)  [<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-5020446-4186922.png' alt='facebook' height='40'>](https://www.facebook.com/rafiulrefat.official)  [<img src='https://cdn3d.iconscout.com/3d/premium/thumb/twitter-5233475-4403490.png' alt='twitter' height='40'>](https://twitter.com/rafiul_refat)  [<img src='https://cdn3d.iconscout.com/3d/premium/thumb/internet-protect-6747346-5528628.png' alt='website' height='40'>](https://rirefat.netlify.app/)  
+
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rirefat)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rirefat)  
 
