@@ -8,7 +8,7 @@ I'm a Front End Web developer who is passionate about making errors-free website
 <br>
 <!-- Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript |  REACT | NodeJs | ExpressJs | MongoDB | Firebase | WordPress | Java -->
 
-- 👀 &nbsp; I’m interested in **MERN Stack Development** & **Java Programming**.
+- 👀 &nbsp; I’m interested in **MERN Stack Development** & **Python Programming**.
 - 💼 &nbsp; I’m **good** in **Frontend Development** with React.Js and currently learning **MERN Stack Development**💪.
 - 👯 &nbsp; Open to discuss about any startup idea
 - 👨‍💻 &nbsp; All of my projects are available at my [portfolio](rirefat.netlify.app/)
