@@ -30,7 +30,7 @@ I'm a Front End Web developer who is passionate about making errors-free website
 <!-- [<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-github-2-5645861-4695719.png' alt='github' height='40'>](https://github.com/rirefat)    [<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-2-5645838-4695696.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rirefat/)  [<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-5020446-4186922.png' alt='facebook' height='40'>](https://www.facebook.com/rafiulrefat.official)  [<img src='https://cdn3d.iconscout.com/3d/premium/thumb/twitter-5233475-4403490.png' alt='twitter' height='40'>](https://twitter.com/rafiul_refat)  [<img src='https://cdn3d.iconscout.com/3d/premium/thumb/internet-protect-6747346-5528628.png' alt='website' height='40'>](https://rirefat.netlify.app/)   -->
 <br>
 
-## Tech and Tools: 👨🏻‍💻
+## Technologies I Know: 👨🏻‍💻
 
 <p align="center">    
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
