@@ -1,7 +1,7 @@
 ![Web Developer](web-dev.jpg)
 
 ## Hi there 👋, I'm Rafiul Islam
-> ### React Web Application Developer
+> ### Web Application Developer
 
 I'm a Front End Web developer passionate about making errors-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as much as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients using WordPress. I pride myself on doing quality work and maintaining excellent communication. I also enjoy working with include ReactJS, JavaScript as well as Java.
 
