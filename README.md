@@ -6,8 +6,6 @@
 I'm a Front End Web developer passionate about making errors-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as much as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I have created hundreds of websites for clients, always prioritizing quality work and excellent communication. I also enjoy working with technologies like ReactJS, NextJS, JavaScript, and Python.
 
 <br>
-<!-- Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript |  REACT | NodeJs | ExpressJs | MongoDB | Firebase | WordPress | Java -->
-
 - 👀 &nbsp; I’m interested in **MERN Stack Development** & **Python Programming**.
 - 💼 &nbsp; I’m **good** in **Frontend Development** with React Js & Next JS💪.
 - 👯 &nbsp; Open to discuss about any project ideas
@@ -15,6 +13,7 @@ I'm a Front End Web developer passionate about making errors-free websites with 
 - 📫 &nbsp; Email me: rirefat.official@gmail.com 
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
 <br>
+Open to collaboration on exciting projects. Let's build something amazing together! 🚀
 
 ## Connect with me: 🏃
 <p align="center">  
