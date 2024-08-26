@@ -70,11 +70,12 @@ I'm a front-end **Web Application Developer** passionate about making error-free
 </p>
 
 <div style="display: flex">
-    <a href="https://github.com/rirefat/github-readme-stats">
+<!--     <a href="https://github.com/rirefat/github-readme-stats">
     <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=rirefat&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
     </a>
     <a href="https://github.com/rirefat/convoychat">
     <img width="42%" height="215px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhawat9&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="mdhrshohel" />
-    </a>
+    </a> -->
+      ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rirefat&theme=default)
 </div>
 
