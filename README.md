@@ -3,7 +3,7 @@
 ## Hi there 👋, I'm Rafiul Islam
 > ### Web Application Developer
 
-I'm a Front End Web developer passionate about making errors-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as much as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients using WordPress. I pride myself on doing quality work and maintaining excellent communication. I also enjoy working with include ReactJS, NextJS, JavaScript as well as Python.
+I'm a Front End Web developer passionate about making errors-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as much as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I have created hundreds of websites for clients, always prioritizing quality work and excellent communication. I also enjoy working with technologies like ReactJS, NextJS, JavaScript, and Python.
 
 <br>
 <!-- Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript |  REACT | NodeJs | ExpressJs | MongoDB | Firebase | WordPress | Java -->
@@ -11,7 +11,7 @@ I'm a Front End Web developer passionate about making errors-free websites with 
 - 👀 &nbsp; I’m interested in **MERN Stack Development** & **Python Programming**.
 - 💼 &nbsp; I’m **good** in **Frontend Development** with React Js & Next JS💪.
 - 👯 &nbsp; Open to discuss about any project ideas
-- 👨‍💻 &nbsp; All of my projects are available at my [portfolio](rirefat.netlify.app/)
+- 👨‍💻 &nbsp; All of my projects are available at my [portfolio](http://rirefat.netlify.app)
 - 📫 &nbsp; Email me: rirefat.official@gmail.com 
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
 <br>
