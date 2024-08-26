@@ -64,9 +64,4 @@ I'm a front-end **Web Application Developer** passionate about making error-free
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rirefat)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rirefat)  
 
-<p align="center">
-<!--     <a href="https://github.com/rirefat/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rirefat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> -->
-</p>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rirefat&theme=default)
