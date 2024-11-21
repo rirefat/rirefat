@@ -3,7 +3,9 @@
 ## Hi there 👋, I'm Rafiul Islam
 > ### Web Application Developer
 
-I'm a front-end **Web Application Developer** passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as much as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end-goal mindset. Over the past years, I have created hundreds of websites for clients, always prioritizing quality work and excellent communication. I also enjoy working with technologies like ReactJS, NextJS, JavaScript, and Python.
+I am a dedicated **Front-End Web Application Developer(MERN)** passionate about crafting seamless, high-quality websites that ensure 100% client satisfaction. My enthusiasm for continuous learning and knowledge sharing drives me to stay at the forefront of industry trends and innovations. I thrive on solving real-world challenges and approaching each project with a strategic, goal-oriented mindset, ensuring outcomes align with objectives. 
+
+Over the years, I have successfully delivered almost a hundred websites for clients, consistently prioritizing exceptional quality and maintaining clear, professional communication. I specialize in working with modern technologies, including ReactJS, NextJS, JavaScript, and Python, enabling me to create robust, user-friendly solutions tailored to meet diverse needs.
 
 <br>
 <!-- Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript |  REACT | NodeJs | ExpressJs | MongoDB | Firebase | WordPress | Java -->
