@@ -16,7 +16,20 @@ Over the years, I have successfully delivered almost a hundred websites for clie
 - - 📫 &nbsp; Email me: rirefat.official@gmail.com 
 - 👨‍💻 &nbsp; All of my projects are available at my [portfolio](http://rirefat.netlify.app)
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
-<br>
+<be>
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/rirefat"> <img src="https://komarev.com/ghpvc/?username=rirefat&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
 
 ## Connect with me: 🏃
 <p align="center">  
@@ -30,7 +43,8 @@ Over the years, I have successfully delivered almost a hundred websites for clie
       <a href="https://www.upwork.com/freelancers/~0142a4c4d9d621a489"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=1DBF73&label="/></a>
 </p>
 <!-- [<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-github-2-5645861-4695719.png' alt='github' height='40'>](https://github.com/rirefat)    [<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-2-5645838-4695696.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rirefat/)  [<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-5020446-4186922.png' alt='facebook' height='40'>](https://www.facebook.com/rafiulrefat.official)  [<img src='https://cdn3d.iconscout.com/3d/premium/thumb/twitter-5233475-4403490.png' alt='twitter' height='40'>](https://twitter.com/rafiul_refat)  [<img src='https://cdn3d.iconscout.com/3d/premium/thumb/internet-protect-6747346-5528628.png' alt='website' height='40'>](https://rirefat.netlify.app/)   -->
-<br>
+<be>
+
 
 ## Technologies I Know: 👨🏻‍💻
 
