@@ -20,7 +20,6 @@ Over the years, I have successfully delivered almost a hundred websites for clie
 
   <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
