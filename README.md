@@ -1,4 +1,4 @@
-![Web Developer](web-dev.jpg)
+![Web Developer](github-banner.png)
 
 ## Hi there 👋, I'm Rafiul Islam
 > ### Web Application Developer
