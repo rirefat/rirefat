@@ -70,4 +70,4 @@ Over the years, I have successfully delivered almost a hundred websites for clie
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rirefat)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rirefat)  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rirefat&theme=default)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rirefat&theme=default) -->
