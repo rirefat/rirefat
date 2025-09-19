@@ -1,4 +1,5 @@
 ![Web Developer](github-banner.png)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rirefat.rirefat">
 
 ## Hi there 👋, I'm Rafiul Islam
 > ### Web Application Developer
@@ -18,17 +19,7 @@ Over the years, I have successfully delivered almost a hundred websites for clie
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
 <be>
 
-  <table>
-    <tr>
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/rirefat"> <img src="https://komarev.com/ghpvc/?username=rirefat&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
+
 
 ## Connect with me: 🏃
 <p align="center">  
