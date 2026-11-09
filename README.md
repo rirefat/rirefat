@@ -12,11 +12,12 @@ Over the years, I have successfully delivered almost a hundred websites for clie
 <!-- Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript |  REACT | NodeJs | ExpressJs | MongoDB | Firebase | WordPress | Java -->
 
 - 👀 &nbsp; I’m interested in **MERN Stack Development** & **Python Programming**.
-- 💼 &nbsp; I’m **good** in **Frontend Development** with React Js & Next JS💪.
+- 💼 &nbsp; I’m **good** in **Web Application Development** with React Js & Next JS💪.
+- 🤖 &nbsp; Exploring AI Integration, LLM-powered applications, AI Agents & Intelligent Automation to build smarter solutions.
 - 👯 &nbsp; Open to discuss & let's build something amazing together! 🚀
 - 📫 &nbsp; Email me: rirefat.official@gmail.com 
 - 👨‍💻 &nbsp; All of my projects are available at my [portfolio](https://rafiulrefat.vercel.app/)
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
+- ☕ &nbsp; I believe a perfect cup of coffee can be the ultimate solution for stress. 
 <be>
 
 
