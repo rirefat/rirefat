@@ -1,4 +1,4 @@
-![Web Developer](github-banner.png)
+![Web Developer](github-cover.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rirefat.rirefat">
 
 ## Hi there 👋, I'm Rafiul Islam
