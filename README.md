@@ -1,7 +1,7 @@
 ![Web Developer](github-cover.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rirefat.rirefat">
 
-## Hi there 👋, I'm Rafiul Islam
+## Hi there 👋, I'm Rafiul Islam Refat
 > ### Web Application Developer
 
 I am a dedicated **Front-End Web Application Developer(MERN)** passionate about crafting seamless, high-quality websites that ensure 100% client satisfaction. My enthusiasm for continuous learning and knowledge sharing drives me to stay at the forefront of industry trends and innovations. I thrive on solving real-world challenges and approaching each project with a strategic, goal-oriented mindset, ensuring outcomes align with objectives. 
