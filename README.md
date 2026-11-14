@@ -4,9 +4,9 @@
 ## Hi there 👋, I'm Rafiul Islam Refat
 > ### Web Application Developer
 
-I am a dedicated **Front-End Web Application Developer(MERN)** passionate about crafting seamless, high-quality websites that ensure 100% client satisfaction. My enthusiasm for continuous learning and knowledge sharing drives me to stay at the forefront of industry trends and innovations. I thrive on solving real-world challenges and approaching each project with a strategic, goal-oriented mindset, ensuring outcomes align with objectives. 
+I’m a full-stack web application developer working with the MERN stack, and I love turning ideas into fast, clean, user-friendly products. Over the years, I’ve delivered almost a hundred projects for clients, and I’ve learned that great results come from clear communication as much as good code. I mostly build with React, Next.js, Node.js, JavaScript, and Python, and I like starting each project by understanding the goal, so the final product solves a real problem instead of just looking good.
 
-Over the years, I have successfully delivered almost a hundred websites for clients, consistently prioritizing exceptional quality and maintaining clear, professional communication. I specialize in working with modern technologies, including ReactJS, NextJS, JavaScript, and Python, enabling me to create robust, user-friendly solutions tailored to meet diverse needs.
+I’m always learning, and these days I’m exploring modern AI technologies, from AI-assisted development to building smarter features into web apps. I enjoy sharing what I pick up along the way and keeping up with where the industry is heading.
 
 <br>
 <!-- Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript |  REACT | NodeJs | ExpressJs | MongoDB | Firebase | WordPress | Java -->
