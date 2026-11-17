@@ -99,5 +99,3 @@ I’m always learning, and these days I’m exploring modern AI technologies, fr
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rirefat" alt="GitHub streak stats" />
 </p>
-
-
