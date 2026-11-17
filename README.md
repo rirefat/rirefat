@@ -9,7 +9,6 @@ I’m a full-stack web application developer working with the MERN stack, and I 
 I’m always learning, and these days I’m exploring modern AI technologies, from AI-assisted development to building smarter features into web apps. I enjoy sharing what I pick up along the way and keeping up with where the industry is heading.
 
 <br>
-<!-- Skills: HTML5 | CSS3 | SCSS | Bootstrap | TailWind | JavaScript |  REACT | NodeJs | ExpressJs | MongoDB | Firebase | WordPress | Java -->
 
 - 👀 &nbsp; I’m interested in **MERN Stack Development** & **Python Programming**.
 - 💼 &nbsp; I’m **good** in **Web Application Development** with React Js & Next JS💪.
