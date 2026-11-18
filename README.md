@@ -15,7 +15,7 @@ I’m always learning, and these days I’m exploring modern AI technologies, fr
 - 🤖 &nbsp; Exploring AI Integration, LLM-powered applications, AI Agents & Intelligent Automation to build smarter solutions.
 - 👯 &nbsp; Open to discuss & let's build something amazing together! 🚀
 - 📫 &nbsp; Email me: rirefat.official@gmail.com 
-- 👨‍💻 &nbsp; All of my projects are available at my [portfolio](https://rafiulrefat.vercel.app/)
+- 👨‍💻 &nbsp; All of my projects are available at my [portfolio](https://rafiulrefat.vercel.app)
 - ☕ &nbsp; I believe a perfect cup of coffee can be the ultimate solution for stress. 
 <be>
 
